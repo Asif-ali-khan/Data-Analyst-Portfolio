@@ -7,6 +7,12 @@ SQL: Writing advanced queries for data extraction, cleaning, and analysis. <br>
 Excel: Using pivot tables, advanced formulas, and data visualization. <br>
 Power BI: Creating interactive dashboards for storytelling and business intelligence.
 
+# Projects
+1. Sales Analysis Dashboard
+2. Zomato Insights: Restaurant Analytics Dashboard
+3. Telecom Churn Analysis | Phonenow
+4. Call Center Performance
+5. Diversity and Inclusion
 
 # Contact
 Feel free to reach out if you have any questions or opportunities to collaborate:
