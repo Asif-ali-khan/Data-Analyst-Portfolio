@@ -17,5 +17,5 @@ Power BI: Creating interactive dashboards for storytelling and business intellig
 # Contact
 Feel free to reach out if you have any questions or opportunities to collaborate:
 
-Email: asifalikhan17720@gmail.com
+Email: asifalikhan17720@gmail.com <br>
 LinkedIn: linkedin.com/in/theasifalikhan
